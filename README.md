@@ -9,7 +9,7 @@
 - 🧠 I work on **Agentic AI**, **GraphRAG**, and **LLM evaluation pipelines**
 - 🛠️ Currently building knowledge-graph retrieval systems and **MCP servers for Claude Code**
 - 💬 Ask me about **RAG, Knowledge Graphs, FastAPI, Vision Transformers**
-- 📫 Reach me at **ramanrsm123@gmail.com**
+- 📫 Reach me at **cs25mtech14025@iith.ac.in**
 
 ---
 
