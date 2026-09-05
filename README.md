@@ -63,19 +63,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raman11-1&theme=github" />
-</p>
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=Raman11-1&hide_border=true" />
-</p>
-
----
-
-### 🤝 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raman-mankar-b822411b7/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://final-portfolio-website-flax.vercel.app)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cs25mtech14025@iith.ac.in)
